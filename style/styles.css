@@ -1,0 +1,71 @@
+body {
+	margin: 0;
+	padding: 0;
+
+    text-align: center;
+
+	font-family: Helvetica, Arial, sans-serif;
+    font-size: 20px;
+
+	background-image: url(https://pbs.twimg.com/ext_tw_video_thumb/1264932624201482241/pu/img/WlhVjlVpscSk_u0a.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+table{
+    margin:0 auto;
+    text-align:center;
+}
+
+img{
+    height: 300px;
+    width: 500px;
+
+    border-radius: 10px;
+}
+
+footer{
+    background: #333;
+	color: white;
+	text-align: center;
+	padding: 10px;
+	margin-top: 20px;
+
+    width: 100%;
+    right: 0;
+    bottom: 0;
+    position: fixed; 
+}
+
+#cabecera{
+    background: #295e4e;
+	color: white;
+
+	height: 80px;
+    width: 100%;
+    
+    padding-bottom: 20px;
+
+    left: 0;
+    top: 0;
+    position: fixed; 
+}
+
+#cabecera p{
+    background: #9d2b47;
+	color: white;
+    padding-top: 5px;
+    padding-bottom: 1px;
+	height: 25px;
+}
+
+#contenido{
+    width: 1100px;
+	margin: 20px auto;
+    padding-top: 120px;
+    padding-bottom: 50px;
+}
+
+option{
+	font-size:18px
+ }
